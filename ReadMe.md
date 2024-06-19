@@ -25,4 +25,4 @@ About Me<br>Hi there! I'm HyadaWild, a passionate developer based in Fuchu-shi, 
 [![](https://visitcount.itsvg.in/api?id=Hyadawild&icon=4&color=0)](https://visitcount.itsvg.in)
 
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/796670273226276904animated=true&theme=light)](https://discord.com/users/796670273226276904)
+[![Discord Presence](https://lanyard.cnrad.dev/api/796670273226276904?animated=true&theme=light&bg=6e7a88&idleMessage=:Tehee!!!)](https://discord.com/users/796670273226276904)
