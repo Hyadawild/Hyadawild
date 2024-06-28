@@ -27,10 +27,7 @@ About Me<br>Hi there! I'm HyadaWild, a passionate developer based in Fuchu-shi, 
 [![](https://visitcount.itsvg.in/api?id=Hyadawild&icon=4&color=0)](https://visitcount.itsvg.in)
 
 <p align="left">
-<a href="https://github.com/Hyadawild">
  [![Discord Presence](https://lanyard.cnrad.dev/api/796670273226276904?animated=true&hideStatus=false&theme=light&bg=6e7a88)](https://discord.com/users/796670273226276904)
  ![LeetCode Stats](https://leetcard.jacoblin.cool/Hyada?theme=unicorn&font=Poppins&ext=activity)
-
-</a>
 </p>
 
